@@ -1,0 +1,19 @@
+body{
+text-align:center;    
+}
+#apps{
+background-color: rgb(255, 183, 0);    
+}
+#games{
+background-color: red;    
+}
+h1{
+font-size:40px;
+font-weight:300;    
+}
+.line{
+height:6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;    
+}
